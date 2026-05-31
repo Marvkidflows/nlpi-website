@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 import { FaBitcoin, FaCreditCard, FaUniversity, FaMoneyBillWave, FaTelegram, FaCheckCircle, FaArrowRight } from 'react-icons/fa'
 import SectionWrapper, { Reveal } from '../components/SectionWrapper.jsx'
 
-const TELEGRAM_USERNAME = 'marvellous5252' // ← Replace with your Telegram username
+const TELEGRAM_USERNAME = 'Agentlanfrank' // ← Replace with your Telegram username
 
 const PAYMENT_METHODS = [
   {
